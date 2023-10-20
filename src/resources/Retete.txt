@@ -1,0 +1,6 @@
+Hummus*naut_g_500_200;sare_g_3_10;tahini_g_50_150*100
+Fursecuri*zahar_g_150_500;faina_g_150_300;oua_g_100_200;ciocolata_g_100_450*45
+Lasagna*carne_g_500_500;sare_g_3_10;_g_50_150;paste_g_500_500;unt_g_200_400;lapte_g_300_455*150
+placinta cu mere*mere_kg_2_500;zahar_g_150_500;faina_g_150_300;unt_g_200_400*60
+Omleta*oua_g_200_250;sare_g_3_10;lapte_g_300_455*10
+Gulas*carne_g_500_500;sare_g_10_15;cartofi_kg_1_700;ceapa_g_100_200;morcovi_g_200_250*120
